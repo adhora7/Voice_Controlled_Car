@@ -20,7 +20,7 @@ This project demonstrates a **Voice Controlled Car** using **Arduino** and a **B
 
 
 
-**Figure 1**: The system setup with the Arduino, motor shield, Bluetooth module, and chassis.
+
 
 ## Working Principle:
 The car is controlled by **voice commands** sent from a **mobile app** developed using **MIT App Inventor**. The app captures voice commands (e.g., "forward", "backward", "left", "right") and sends them to the **HC-05 Bluetooth module**. The Bluetooth module transmits these commands to the Arduino, which processes them and drives the motors accordingly using the **L293D motor shield**.
